@@ -1,0 +1,4 @@
+,pred_Non-fatal,pred_Severe,pred_Extremely severe
+true_Non-fatal,55,37,42
+true_Severe,71,527,109
+true_Extremely severe,26,82,167

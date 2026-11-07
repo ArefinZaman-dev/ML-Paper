@@ -1,0 +1,11 @@
+python 3.14.2
+sklearn 1.9.1
+pandas 3.0.3
+numpy 2.3.5
+seed 42
+CV repeats 5
+SMOTE True XGB False LGBM False
+rows 1116
+best RF+ROS
+models ['LR', 'DT', 'RF', 'ET', 'HGB']
+strategies ['none', 'classweight', 'ROS', 'RUS', 'SMOTE']
